@@ -1,0 +1,378 @@
+* {
+	margin: 0;
+	padding: 0;
+  }
+
+body {
+	font-family: 'Lato', sans-serif;
+
+}
+
+.container {
+	width: 1140px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+img {
+	display: block;
+}
+
+
+.logo {
+	
+	padding:30px;
+}
+
+header {
+	background-color: #f6f9f9;
+}
+
+
+
+.hero {
+	background: url(../img/01.jpg) no-repeat;
+	background-size: cover;
+}
+
+.banner {
+	text-align: center;
+	margin: 0 auto;
+	width: 600px
+}
+
+.banner h2 {
+
+padding-top: 210px;
+
+border-bottom: 1px solid #15a4fa;
+
+font-size: 105px;
+
+color: white;
+}
+
+.banner p {
+	
+padding-top: 35px;
+	
+color: white;
+	
+font-size: 20px;
+	
+padding-bottom: 65px;
+}
+
+.btn {background: transparent;padding: 10px 26px;color: white;border: 1px solid #15a4fa;}
+
+ .banner h6 {
+ 	padding-top: 170px;
+ 	padding-bottom: 80px;
+ }
+
+
+ .fa.fa-chevron-down {
+
+ }
+
+ .paragraph {
+ 	background-color: #f6f9f9
+
+ }
+
+
+ .para {
+ 	text-align: center;
+ 	
+ }
+
+ .para h3 {
+ 	padding-top: 80px;
+ 	padding-bottom: 40px;
+ 	font-size: 40px;
+
+ }
+
+
+ .para p {
+ 	font-size: 20px;
+ 	padding-bottom: 105px;
+
+ }
+
+ .icons {
+ 	text-align: center;
+ 	padding-top: 65px;
+ 	padding-bottom: 65px;
+ }
+
+.icon-one {
+	width: 32%;
+	float: left;
+	    margin-left: 15px;
+
+
+}
+
+.icon-two {
+	width: 32%;
+	float: left;
+	    margin-left: 15px;
+
+
+}
+
+
+.icon-three {
+	width: 32%;
+	float: left;
+	    margin-left: 15px;
+
+
+}
+
+h4 {
+}
+
+i.fa.fa-mobile {
+    font-size: 60px;
+    background-color: #48baff;
+    color: white;
+    padding: 25px 45px;
+}
+
+i.fa.fa-paper-plane-o {
+    font-size: 50px;
+    background-color: #48baff;
+    color: white;
+    padding: 30px 30px;
+}
+
+i.fa.fa-bullhorn {
+    font-size: 50px;
+    background-color: #48baff;
+    color: white;
+    padding: 30px 30px;
+}
+
+h5 {
+    font-size: 22px;
+    padding-top: 30px;
+    padding-bottom: 27px;
+}
+
+p {
+    font-size: 15px;
+}
+
+
+
+
+/* image section of the project */ 
+
+
+
+.image-section {
+	text-align: center;
+	background-color: #f6f9f9;
+	padding-bottom: 105px;
+}
+
+
+.image-section h1 {
+	font-size: 40px;
+	padding-top: 90px;
+
+}
+
+.image-section p {
+
+	padding-top: 25px;
+
+	
+}
+
+.first-pic-row {
+	margin-top: 95px;
+
+
+}
+
+
+.img01{
+	float: left;
+	margin-left:20px;
+}
+
+.img02{
+	float: left;
+	margin-left:20px;
+	
+}
+
+.img03{
+	float: left;
+	margin-left:20px;
+	
+}
+
+.second-pic-row {
+	
+
+}
+
+
+.img04{
+	float: left;
+	margin-left:20px;
+	margin-top: 20px;
+	
+}
+
+.img05{
+	float: left;
+	margin-left:20px;
+	margin-top: 20px;
+	
+}
+
+.img06{
+	float: left;
+	margin-left:20px;
+	margin-top: 20px;
+	
+}
+
+
+
+.hero-2 {
+	background: url(../img/road.jpg) no-repeat;
+	background-size: cover;
+	text-align: center;
+	  }
+
+
+.hero-2 h2 {
+
+	padding-top: 80px;
+	color: white;
+	font-size: 40px;
+	padding-bottom: 125px;
+}
+
+.hero-2 p {
+	padding-top: 30px;
+	padding-bottom: 50px;
+	color: #7b7e82
+}
+
+.form-box {
+    padding-bottom: 125px;
+}
+
+
+.form-box input {
+	background: transparent;
+	padding: 20px ;
+	margin: 10px;
+	border-radius: 3px;
+
+	width: 500px;
+
+	border: 1px solid white;
+}
+
+
+input.Message {
+    
+    padding-bottom: 163px;
+}
+
+button.bttn {
+    padding: 17px 68px;
+    font-size: 18px;
+    background: transparent;
+    border: 1px solid #15a4fa;
+    color: white;
+    margin-left: 351px;
+    margin-top: 13px;
+    border-radius: 5px;
+}
+
+
+footer .left {
+	width: 50%;
+	float: left;
+}
+
+.left h5 {
+    font-size: 15px;
+    padding-top: 45px;
+}
+
+footer .right {
+	width: 50%;
+	float: left;
+}
+
+footer .right ul {
+	list-style: none;
+	padding-top: 27px;
+    margin-left: 300px;
+    padding-bottom: 27px;
+}
+
+
+
+footer .right ul li {
+
+	display: inline-block;
+	padding: 3px;
+	
+}
+
+.fa.fa-facebook {
+
+	background-color: #15a4fa;
+    color: white;
+    padding: 13px 19px;
+    font-size: 23px;
+
+
+
+}
+
+
+.fa.fa-twitter {
+
+background-color: #15a4fa;
+
+color: white;
+
+padding: 13px 14px;
+
+font-size: 23px;
+}
+
+.fa.fa-google-plus {
+
+background-color: #15a4fa;
+
+color: white;
+
+padding: 13px 9px;
+
+font-size: 23px;
+}
+
+
+.fa.fa-linkedin {
+
+background-color: #15a4fa;
+
+color: white;
+
+padding: 13px 15px;
+
+font-size: 23px;
+}
